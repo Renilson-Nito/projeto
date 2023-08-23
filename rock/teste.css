@@ -1,0 +1,40 @@
+h1 {
+	text-align: center;
+	color: rgb(0, 0, 0);
+	font-size: 60px;
+	background: aqua;
+}
+
+nav {
+    color: red;
+    font-size: 20px;
+    background: rgba(73, 130, 214, 0.568);
+}
+
+/* ID selector */
+#container {
+	width: 20px;
+}
+
+/* Class selector */
+.m-40 {
+	margin: 5px;
+}
+
+/* Element/Type selector + Agrupamento de seletores */
+a1 {
+	color: black;
+	font-size: 60px;
+	background: rgba(28, 63, 71, 0.479);
+}
+
+header {
+	color: black;
+	font-size: 60px;
+	font-style: italic;
+	font-weight: bold;
+	text-align: center;
+	height: 100px;
+	border: 2px dashed blue;
+	background-color: aqua;
+  }
